@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MVC_QLKH:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVC_QLKH_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MVC_QLKH/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MVC_QLKH" />
+        </element>
+        <element id="directory" name="WEB-INF">
+          <element id="directory" name="lib">
+            <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+          </element>
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
